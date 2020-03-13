@@ -1,4 +1,8 @@
 {
-  "greeting": "Howdy",
-  "name": "Harry"
+  "users": [
+    {
+      "greeting": "Howdy",
+      "name": "Harry"
+    }
+  ]
 }
